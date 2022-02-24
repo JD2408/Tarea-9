@@ -35,6 +35,16 @@
 
 ![image](https://user-images.githubusercontent.com/94129932/155389017-00fe1668-1992-4bac-9707-d4d26389c90e.png)
 
+27. Para cada circuito de la figura 17-65, determine el ángulo de fase entre el voltaje de fuente y la corriente
+total.
+
+![image](https://user-images.githubusercontent.com/94129932/155549980-2882989d-e68a-4242-a067-c92e0abd8d35.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155564317-4d62b353-2157-4e28-8d90-e671a9896ae3.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155566181-efa9f8f4-a86a-4958-91fe-17a52b69e60c.png)
+
+
 
 ### CAPÍTULO 18
 
