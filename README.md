@@ -44,7 +44,44 @@ total.
 
 ![image](https://user-images.githubusercontent.com/94129932/155566181-efa9f8f4-a86a-4958-91fe-17a52b69e60c.png)
 
+29. Convierta el circuito de la figura 17-66 a una forma equivalente dispuesta en serie.
 
+![image](https://user-images.githubusercontent.com/94129932/155566602-02fa6209-f0b3-4b00-a7d7-1a721c3c9a74.png)
+
+31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
+
+![image](https://user-images.githubusercontent.com/94129932/155577301-93f5884e-789e-4e82-a0b9-5f80501553e1.png)
+
+* 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
+entre las terminales de cada componente.
+
+![image](https://user-images.githubusercontent.com/94129932/155577353-3f016ac5-ae9a-4fa0-9a9b-7b0726606ff2.png)
+
+*35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
+en la figura 17-69?
+
+![image](https://user-images.githubusercontent.com/94129932/155577409-2e337dfe-67f3-4a0c-b974-62c5ebf0635e.png)
+
+* 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+
+![image](https://user-images.githubusercontent.com/94129932/155577487-5fa7297e-5e6b-4901-8d69-eca302c9e89b.png)
+
+39. En condición de resonancia, XL  2 kÆ y RW  25 Æ en un circuito RLC en paralelo. La frecuencia resonante
+es de 5 kHz. Determine el ancho de banda.
+
+![image](https://user-images.githubusercontent.com/94129932/155577780-97736049-963f-49a2-b221-5ce69b8fdbe7.png)
+
+
+
+41. En cierto circuito RLC, la potencia en condición de resonancia es de 2.75 W. ¿Cuál es la potencia a la
+frecuencia crítica baja?
+
+La potencia a la frecuencia crítica baja es la mitad de la potencia en condición de resonancia, por lo tanto, es igual a: 1.375 W
+
+43. Cierto circuito resonante en paralelo tiene un factor Q de 50 y un AB de 400 Hz. Si Q se duplica, ¿cuál
+es el ancho de banda a la misma fr?
+
+![image](https://user-images.githubusercontent.com/94129932/155578155-6a018880-b518-45d2-a6e0-7b0bbda2f627.png)
 
 ### CAPÍTULO 18
 
