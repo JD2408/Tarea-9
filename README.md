@@ -98,6 +98,10 @@ SECCIÓN 18–1 Filtros pasabajas
 
 ![image](https://user-images.githubusercontent.com/93794279/155641093-205f03f9-6410-40b2-9a22-debb6790c296.png)
 
+2. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10
+
+
+
 ## 5. CONCLUSIONES
 
 ## 6. BIBLIOGRAFIA
