@@ -110,6 +110,10 @@ SECCIÓN 18–1 Filtros pasabajas
 4.El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB: 
 (a)-1dB (b)-3dB (c)-6dB (d)-20dB
 
+![image](https://user-images.githubusercontent.com/93794279/155648242-31cbafa6-5b96-415a-b74b-d73c6d1b6170.png)
+
+5. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
+
 
 
 ## 5. CONCLUSIONES
