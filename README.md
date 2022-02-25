@@ -105,6 +105,12 @@ SECCIÓN 18–1 Filtros pasabajas
 3. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
 (a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
 
+![image](https://user-images.githubusercontent.com/93794279/155644315-cac4ea2e-03be-41af-9c7b-e01697ce897e.png)
+
+4.El voltaje de entrada a un filtro RC pasabajas es de 8 V rms. Determine el voltaje de salida a los siguientes niveles de dB: 
+(a)-1dB (b)-3dB (c)-6dB (d)-20dB
+
+
 
 ## 5. CONCLUSIONES
 
