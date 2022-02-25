@@ -114,6 +114,7 @@ SECCIÓN 18–1 Filtros pasabajas
 
 5. En un filtro pasaaltas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando Vent 10 V rms?
 
+![image](https://user-images.githubusercontent.com/93794279/155649140-7580508e-07e5-425e-8478-fedc0e04b62d.png)
 
 
 ## 5. CONCLUSIONES
