@@ -92,6 +92,12 @@ es el ancho de banda a la misma fr?
 
 ### CAPÍTULO 18
 
+SECCIÓN 18–1 Filtros pasabajas
+
+1. En cierto filtro pasabajas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?En cierto filtro pasabajas, XC  500 Æ y R  2.2 kÆ. ¿Cuál es el voltaje de salida (Vsal) cuando la entrada es de 10 V rms?
+
+![image](https://user-images.githubusercontent.com/93794279/155641093-205f03f9-6410-40b2-9a22-debb6790c296.png)
+
 ## 5. CONCLUSIONES
 
 ## 6. BIBLIOGRAFIA
