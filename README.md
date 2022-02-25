@@ -59,6 +59,14 @@ total.
 
 ![image](https://user-images.githubusercontent.com/94129932/155577301-93f5884e-789e-4e82-a0b9-5f80501553e1.png)
 
+![image](https://user-images.githubusercontent.com/94129932/155653189-46fe84c7-84f4-49e9-9aa4-1b463201b029.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155653215-66e4072e-9491-4953-b918-ebe9d6322a63.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155653252-165b21dd-7881-4b50-8386-026dc458d9eb.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155653268-c2db987c-5636-4080-af90-5473d0fe5e71.png)
+
 * 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
 entre las terminales de cada componente.
 
