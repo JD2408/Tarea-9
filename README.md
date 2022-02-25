@@ -100,6 +100,10 @@ SECCIÓN 18–1 Filtros pasabajas
 
 2. Determine el voltaje de salida (Vsal) de cada filtro mostrado en la figura 18-38 a la frecuencia especificada cuando Vent  10
 
+![image](https://user-images.githubusercontent.com/93794279/155641978-c385b5dc-c1a5-4bad-aec1-4b70a2ab5c2d.png)
+
+3. Para el filtro de la figura 18-39, calcule el valor de C requerido para cada una de las siguientes frecuencias críticas:
+(a) 60 Hz (b) 500 Hz (c) 1 kHz (d) 5 kHz
 
 
 ## 5. CONCLUSIONES
