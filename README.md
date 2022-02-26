@@ -72,6 +72,20 @@ entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/94129932/155577353-3f016ac5-ae9a-4fa0-9a9b-7b0726606ff2.png)
 
+![image](https://user-images.githubusercontent.com/94129932/155819967-7fbc8c7e-8ebd-4c1d-83da-0df38cd6973a.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820018-edca6290-7551-4af1-9b37-d894fa323bd1.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820036-1c4550ab-954f-4cb0-b27d-7b90cf6f3707.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820045-d2f01c48-e040-4bf1-ad7f-fa17cc283063.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820069-81410f71-dacd-4560-9b32-c24c971c025c.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820089-c7589e06-0421-4c0f-8ff2-5dea93d49dd8.png)
+
+![image](https://user-images.githubusercontent.com/94129932/155820101-042ac68c-8f17-456e-af58-f4df2af701fd.png)
+
 *35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
 en la figura 17-69?
 
