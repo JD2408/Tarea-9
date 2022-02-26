@@ -67,7 +67,7 @@ total.
 
 ![image](https://user-images.githubusercontent.com/94129932/155653268-c2db987c-5636-4080-af90-5473d0fe5e71.png)
 
-* 33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
+33. Determine la corriente a través de cada componente mostrado en la figura 17-68. Encuentre el voltaje
 entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/94129932/155577353-3f016ac5-ae9a-4fa0-9a9b-7b0726606ff2.png)
@@ -86,12 +86,12 @@ entre las terminales de cada componente.
 
 ![image](https://user-images.githubusercontent.com/94129932/155820101-042ac68c-8f17-456e-af58-f4df2af701fd.png)
 
-*35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
+35. Si el valor de C es de 0.22 mF, ¿cuál es la corriente a través de un resistor de 100 Æ conectado de a a b
 en la figura 17-69?
 
 ![image](https://user-images.githubusercontent.com/94129932/155577409-2e337dfe-67f3-4a0c-b974-62c5ebf0635e.png)
 
-* 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
+37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
 
 ![image](https://user-images.githubusercontent.com/94129932/155577487-5fa7297e-5e6b-4901-8d69-eca302c9e89b.png)
 
