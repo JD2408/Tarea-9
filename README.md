@@ -17,6 +17,7 @@
 ***Capitulo 17***
 
 ***Capitulo 18***
+![image](https://user-images.githubusercontent.com/93794279/156254213-0871c713-d332-4dbf-8470-b4889efd376d.png)
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
