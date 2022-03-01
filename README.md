@@ -138,6 +138,46 @@ SECCIÓN 18–1 Filtros pasabajas
 
 ![image](https://user-images.githubusercontent.com/93794279/155649140-7580508e-07e5-425e-8478-fedc0e04b62d.png)
 
+6. Determine el voltaje de salida de cada filtro mostrado en la figura 18-41 a la frecuencia especificada cuando Vent  10 V.
+
+![image](https://user-images.githubusercontent.com/93794279/156242962-399e27cf-ee91-4ef0-8173-715a9fdd3783.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156243882-de59791f-350c-4748-bb35-22e977672201.png)
+
+7. Determine la frecuencia central para cada filtro de la figura 18-43.
+
+![image](https://user-images.githubusercontent.com/93794279/156245833-43bfbe10-6bc4-4112-8241-c459dfda34fd.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156245137-e86b3275-a245-477d-b27d-4cf3ab892e94.png)
+![image](https://user-images.githubusercontent.com/93794279/156245813-35ab1c8e-04bc-4d02-af68-1ac8774649ea.png)
+
+8. ¿Cuáles son las frecuencias críticas alta y baja para cada filtro de la figura 18-43? Suponga que la respuesta es simétrica con respecto a f0.
+
+![image](https://user-images.githubusercontent.com/93794279/156245833-43bfbe10-6bc4-4112-8241-c459dfda34fd.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156246683-eaf69d9a-dd3c-4400-a22c-67c6d532fa88.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156247451-9597f5d4-d1a3-426a-af6a-05885ed8a8ef.png)
+
+9. Si la resistencia de devanado de las bobinas que aparecen en la figura 18-44 es de 4 Æ, ¿cuál es el voltaje de salida en condición de resonancia cuando Vent  120 V?
+
+![image](https://user-images.githubusercontent.com/93794279/156247658-91d0e842-388f-4ede-8d42-ca848087a028.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156250007-2b3f799d-dc42-43f0-8a32-89bed35e154e.png)
+
+10. Diseñe un filtro pasabanda utilizando un circuito resonante paralelo que satisfaga las siguientes especificaciones: AB  500 Hz; Q  40; e IC(máx)  20 mA, VC(máx)  2
+
+![image](https://user-images.githubusercontent.com/93794279/156251423-b4506647-1fbe-44ce-9fc2-2c42d59938c4.png)
+![image](https://user-images.githubusercontent.com/93794279/156251466-41ac448a-9182-49eb-ad84-723a43877638.png)
+
+11. Determine los valores de L1 y L2 en la figura 18-48 para dejar pasar una señal con frecuencia de 1200 kHz y rechazar una señal con frecuencia de 456 kHz
+![image](https://user-images.githubusercontent.com/93794279/156251880-5bdd111c-d0c4-40bc-980d-2f69655fc9dd.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156252754-6f0ac547-96ef-4c59-8637-1d8f8effb361.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156252798-5ce02710-7161-4e96-a390-3c926685a15e.png)
+
+![image](https://user-images.githubusercontent.com/93794279/156253035-a9090c38-e84e-44f2-8c9d-1ae8698f2190.png)
 
 ## 5. CONCLUSIONES
 
