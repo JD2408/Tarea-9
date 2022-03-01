@@ -183,7 +183,6 @@ SECCIÓN 18–1 Filtros pasabajas
 ## 5. CONCLUSIONES
 
 
-***Capitulo 18***
 
 https://youtu.be/Hh-iifX7jYY
 
