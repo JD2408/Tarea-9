@@ -28,7 +28,75 @@
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 
 ### CAPÍTULO 17
+  *SECCIÓN 17–1 Impedancia de circuitos RLC en serie*
 
+1. Cierto circuito RLC en serie tiene los siguientes valores: R  10 Æ, C  0.047 mF, y L  5 mH. Determine la impedancia en forma polar. ¿Cuál es la reactancia neta? La frecuencia de la fuente es de 5 kHz.
+
+[![Imagen1.png](https://i.postimg.cc/TPLgyGBL/Imagen1.png)](https://postimg.cc/942rK3mC)
+
+3. Si en la figura 17-59 la frecuencia del voltaje de fuente se duplica a partir del valor que producen las reactancias indicadas, ¿cómo cambia la magnitud de la impedancia?
+
+[![Imagen2.png](https://i.postimg.cc/m2n6KZ3h/Imagen2.png)](https://postimg.cc/3dgBvTcH)
+
+  
+  *SECCIÓN 17–2 Análisis de circuitos RLC en serie*
+  
+ 5. Para el circuito de la figura 17-59, determine Itot, VR, VL y VC en forma polar.
+ 
+ [![Imagen3.png](https://i.postimg.cc/FKVpFhSy/Imagen3.png)](https://postimg.cc/cK6wXyXC)
+ 
+ 7. Analice el circuito de la figura 17-60 para determinar lo siguiente (f  25 kHz):
+
+[![Imagen5.png](https://i.postimg.cc/SsjTxJpB/Imagen5.png)](https://postimg.cc/ftnjHWyC)
+
+[![Imagen4.png](https://i.postimg.cc/HL6MPn5h/Imagen4.png)](https://postimg.cc/McjXnW97)
+ 
+ 
+ *SECCIÓN 17–3 Resonancia en serie*
+ 
+ 9. Para el circuito de la figura 17-61, ¿cuál es el voltaje a través de R en condición de resonancia?
+ 
+ La reactancia capacitativa y la reactancia inductiva tienen el mismo valor por lo cual se anulan entre si haciendo un circuito sumamente resistivo por lo ue el voltaje es igual al de la fuente.
+ 
+ 11. Cierto circuito resonante dispuesto en serie tiene una corriente mínima de 50 mA y un VL de 100 V. El voltaje aplicado es de 10 V. ¿Cuál es el valor de Z? ¿Cuáles los valores de XL y XC?
+ 
+ [![Imagen6.png](https://i.postimg.cc/ZqfmQBc2/Imagen6.png)](https://postimg.cc/nsQNjLNG)
+ 
+ 13. Para la figura 17-62, ¿cuál es el valor de la corriente en los puntos de potencia media?
+ 
+ [![Imagen7.png](https://i.postimg.cc/05SgYHLL/Imagen7.png)](https://postimg.cc/Cdw6YJMN)
+ 
+ 15. Diseñe un circuito en el cual las siguientes frecuencias resonantes en serie se puedan seleccionar con un conmutador:(a) 500 kHz (b) 1000 kHz (c) 1500 kHz (d) 2000 kHz
+ 
+ [![Imagen8.png](https://i.postimg.cc/CxL6QvQM/Imagen8.png)](https://postimg.cc/0bFf6Cvh)
+ 
+ 
+ *SECCIÓN 17–4 Impedancia de circuitos RLC en paralelo*
+
+17. ¿Es capacitivo o inductivo el circuito de la figura 17-63? Explique su respuesta. 
+ 
+primero calculamos la reactancia capacitiva e inductiva con el uso de las formulas respectivas despues calculamos la impedancia con el uso de la formula de esta en paralelo, asi tenemos:
+ 
+ [![Imagen9.png](https://i.postimg.cc/vHSWG3mZ/Imagen9.png)](https://postimg.cc/CzkZNCD3)
+ 
+ Despues de esto debemos convertir los respectivos fasores a su forma rectangular, luego debemos nuevamente convertirlo a su forma polar para obtener el angulo y a partir de este ver si es capacitivo o inductivo:
+ 
+ [![Imagen10.png](https://i.postimg.cc/BnK143ym/Imagen10.png)](https://postimg.cc/K1mYD6mT)
+ 
+ tenemos el angulo negativo que nos indica que el circuito es capacitivo.
+ 
+ 
+ *SECCIÓN 17–5 Análisis de circuitos RLC en paralelo*
+ 
+19. Para el circuito de la figura 17-63, determine todas las corrientes y los voltajes en forma polar.
+
+[![Imagen11.png](https://i.postimg.cc/sgdgPh6J/Imagen11.png)](https://postimg.cc/rKjTMKLd)
+
+21. Cambie la frecuencia a 100 kHz en la figura 17-63 y repita el problema 19. 
+ 
+[![Imagen12.png](https://i.postimg.cc/w3KgkCVB/Imagen12.png)](https://postimg.cc/SYGBStH0)
+
+ 
   *SECCIÓN 17–6 Resonancia en paralelo *
 
 23. Determine Z en condición de resonancia y fr para el circuito tanque de la figura 17-64.
