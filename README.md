@@ -56,6 +56,9 @@ total.
 
 ![image](https://user-images.githubusercontent.com/94129932/155566602-02fa6209-f0b3-4b00-a7d7-1a721c3c9a74.png)
 
+![image](https://user-images.githubusercontent.com/94129932/156415751-44bfa024-d252-4148-8844-a262fa872cb1.png)
+![image](https://user-images.githubusercontent.com/94129932/156415802-06cddef0-1bc2-4e1e-a47e-32f3fe434c02.png)
+
 31. En la figura 17-67, ¿cuál es el ángulo de fase entre I2 y el voltaje de fuente?
 
 ![image](https://user-images.githubusercontent.com/94129932/155577301-93f5884e-789e-4e82-a0b9-5f80501553e1.png)
