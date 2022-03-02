@@ -121,6 +121,32 @@ en la figura 17-69?
 
 ![image](https://user-images.githubusercontent.com/94129932/155577487-5fa7297e-5e6b-4901-8d69-eca302c9e89b.png)
 
+![image](https://user-images.githubusercontent.com/94129932/156429546-42e7bbf9-1e64-41e3-a35c-659c1bd6b17f.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429585-4c82e85d-94d0-4e17-9dcc-c09c25d53a3e.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429631-f5f7b263-17f2-4d0a-be84-d9ec2eb7c0d3.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429699-fd203347-43af-43cf-9b14-f3748ad85866.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429737-d5876c83-8b60-4b7e-a329-055d1d27930c.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429764-7692741b-086b-43ab-a448-bab84a013a14.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429804-021d40ec-6016-40c8-a482-815d56df8fb4.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429837-1d319f40-1784-4434-9b87-7ca56e30cd9b.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429867-8c0392fe-1c24-4cbf-8d02-9ccf0b6cb594.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429902-ffc5e68c-687b-4258-a4b3-973e049eea2b.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429929-8d61030a-af86-4452-ba63-f3ff032118cf.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156429961-458b4a93-96e4-4c71-84f0-6027726e704f.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156430003-9eac20a3-8f5a-4b98-9d79-d92042bd685d.png)
+
 39. En condición de resonancia, XL  2 kÆ y RW  25 Æ en un circuito RLC en paralelo. La frecuencia resonante
 es de 5 kHz. Determine el ancho de banda.
 
