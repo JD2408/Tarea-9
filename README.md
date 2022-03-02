@@ -94,12 +94,21 @@ entre las terminales de cada componente.
 en la figura 17-69?
 
 ![image](https://user-images.githubusercontent.com/94129932/155577409-2e337dfe-67f3-4a0c-b974-62c5ebf0635e.png)
+
+![image](https://user-images.githubusercontent.com/94129932/156419219-fcd84f17-349b-4449-983b-17f652ac408f.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418459-59eed394-806e-4498-a86f-b0124d40383e.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418540-70cd0c28-6580-4925-af2f-c8c4f9a3f95a.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418561-c1d38b74-4c48-4f67-9225-c9155193c564.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418590-13d06453-731c-494e-b328-5196ed0b7820.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418622-7a9ca2fa-b0d1-428c-896c-62266953ed85.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418647-a9e93331-8f5e-43e7-ad44-f5477ea67daf.png)
+
 ![image](https://user-images.githubusercontent.com/94129932/156418668-0cd18a59-3f43-4a7d-84f3-1956e2149f44.png)
 
 37. Determine las frecuencias resonantes y el voltaje de salida en cada frecuencia mostrada en la figura 17-70.
