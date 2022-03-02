@@ -10,7 +10,15 @@
 
 ## 1. OBJETIVOS
 ***Objetivo General***
+
+Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente
 ***Objetivos Específicos***
+
+• Determinar la impedancia de un circuito RLC en serie y paralelo
+
+• Analizar circuitos RLC con resonancias en serie y paralelo
+
+• Analizar el funcionamiento y las operaciones de filtros RC y RL pasabajas
 
 ## 2. MARCO TEÓRICO
 
@@ -299,12 +307,13 @@ SECCIÓN 18–1 Filtros pasabajas
 
 ![image](https://user-images.githubusercontent.com/93794279/156253035-a9090c38-e84e-44f2-8c9d-1ae8698f2190.png)
 
-## 5. CONCLUSIONES
-
+## 5. VIDEO
 
 
 https://youtu.be/Hh-iifX7jYY
 
 ## 6. CONCLUSIONES
+
+gracias al estudio de los temas que se encuentran en estos capitulos obtubimos la capacidad de analizar circuitos RLC en en serie y en paralelo ademas de un fenomeno tan interesante como lo es la resonancia, de igual manera comprendemos de mejor manera las aplicaciones de este tipo de circuitos en un determinado conjunto de elementos que forman parte de ciertos dispositovos electronicos.
 
 ## 7. BIBLIOGRAFIA
