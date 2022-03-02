@@ -12,6 +12,7 @@
 ***Objetivo General***
 
 Desarrollar un análisis critico a la hora de disponer de un circuito RL o RC que cuenta con resonancias en series o paralelo para mejorar la comprensión de un circuito que tenga alguna similitud con lo nombre anteriormente
+
 ***Objetivos Específicos***
 
 • Determinar la impedancia de un circuito RLC en serie y paralelo
